@@ -6,9 +6,9 @@ Dr. John Gibbons
 
 ## Course Description
 This course continues developing problem solving techniques by focusing on the imperative and object-oriented styles using:
-Abstract Data Types
-Basic data structures such as stacks, queues, and trees
-Recursion
-Basic notions of algorithmic efficiency and performance analysis in the context of sorting algorithms
-Basic Object-Oriented techniques
+<br /> Abstract Data Types
+<br /> Basic data structures such as stacks, queues, and trees
+<br /> Recursion
+<br /> Basic notions of algorithmic efficiency and performance analysis in the context of sorting algorithms
+<br /> Basic Object-Oriented techniques
 
