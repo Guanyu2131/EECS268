@@ -2,7 +2,7 @@
 
 ## Instructor
 Dr. John Gibbons
-Dr.	James Miller
+<br /> Dr.	James Miller
 
 ## Course Description
 This course continues developing problem solving techniques by focusing on the imperative and object-oriented styles using:
